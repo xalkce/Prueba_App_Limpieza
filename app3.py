@@ -6,16 +6,16 @@ import openpyxl
 import pandas as pd
 import streamlit as st
 
-"""
-PROCESADOR DE FLUJOS DE CAJA - KCE
-Copyright (c) 2026 Kaizaharra Corporación Empresarial (KCE).
-Todos los derechos reservados.
-
-AVISO DE CONFIDENCIALIDAD Y PROPIEDAD INTELECTUAL:
-Este software y su código fuente son propiedad exclusiva y confidencial de KCE. 
-Queda terminantemente prohibida su copia, reproducción, cesión, plagio, distribución 
-total o parcial a terceros ajenos a la organización sin autorización expresa.
-"""
+# =============================================================
+# PROCESADOR DE FLUJOS DE CAJA - KCE
+# Copyright (c) 2026 Kaizaharra Corporación Empresarial (KCE).
+# Todos los derechos reservados.
+#
+# AVISO DE CONFIDENCIALIDAD Y PROPIEDAD INTELECTUAL:
+# Este software y su código fuente son propiedad exclusiva y confidencial de KCE. 
+# Queda terminantemente prohibida su copia, reproducción, cesión, plagio, distribución 
+# total o parcial a terceros ajenos a la organización sin autorización expresa.
+# =============================================================
 
 # Configuracion Basica de la Página
 st.set_page_config(
